@@ -1,4 +1,4 @@
-##Comandos Join
+## Comandos Join
 
 - Inner Join
 Trás os registros em comum nas duas tabelas

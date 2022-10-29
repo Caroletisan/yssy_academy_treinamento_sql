@@ -27,14 +27,14 @@ Comando: GRANT, REVOKE E DENY
 -**BOOLEAN** = Armazena um bit de informação, utilizado para verdadeiro ou falso  
 
 ## MODELAGEM DE DADOS
-- **Star Schema**
+- **Star Schema**  
 Funciona como uma estrela onde o centro é a tabela **FATO** (com metricas) e as pontas são as tabelas **DIMENSÃO** (dados mais especificos)  
 
 - **SNOWFLAKE**
 Dentro das taeblas **DIMENSÃO** temos relacionamentos dentro de relaciomanetos formando os **SNOWFLAKES**  
 
-- **DATAWAREHOUSE**
+- **DATAWAREHOUSE**  
 Data Warehouse é um conjunto de dados orientado para o assunto, integrado, não volátil, variante ao tempo, no apoio de decisões gerenciais. É construído definindo um modelo de dados empresarial, apresentando as principais entidades e seus relacionamentos  
 
-- **DATAMART**
+- **DATAMART**  
 É um pequeno data warehouse (dependente ou independente), abrangendo uma determinada área de assunto e oferecendo informações mais detalhadas sobre o mercado (ou departamento) em questão

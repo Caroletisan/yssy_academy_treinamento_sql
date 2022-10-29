@@ -30,7 +30,7 @@ Comando: GRANT, REVOKE E DENY
 - **Star Schema**  
 Funciona como uma estrela onde o centro é a tabela **FATO** (com metricas) e as pontas são as tabelas **DIMENSÃO** (dados mais especificos)  
 
-- **SNOWFLAKE**
+- **SNOWFLAKE**  
 Dentro das taeblas **DIMENSÃO** temos relacionamentos dentro de relaciomanetos formando os **SNOWFLAKES**  
 
 - **DATAWAREHOUSE**  

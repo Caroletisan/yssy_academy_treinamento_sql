@@ -10,11 +10,11 @@ select
  DS_CARGO,  
  SG_PARTIDO,  
  SG_UF,  
- NM_MUNICIPIO
-from  
+ NM_MUNICIPIO  
+ from  
  dbo.votacao_candidato_munzona_2022_BRASIL  
 where  
- CD_CARGO = 1 --PRESIDENTE
+ CD_CARGO = 1 --PRESIDENTE  
 GROUP BY  
  NM_CANDIDATO,  
  DS_CARGO,  

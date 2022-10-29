@@ -1,17 +1,17 @@
 ## Comandos Join
 
-- Inner Join
+- Inner Join  
 Trás os registros em comum nas duas tabelas
 
-- Full/Outer Join
+- Full/Outer Join  
 Trás todos os dados das duas tabelas
  
-- Lef Join
+- Lef Join  
 Trás todos os dados da primeira tabela e os em comum da segunda
 
-- Right join
+- Right join  
 Trás todos os dados da segunda tabela e os em comum da primeira
 
-- Cross Join
+- Cross Join  
 Cruza todos os dados e gera varias linhas
  
